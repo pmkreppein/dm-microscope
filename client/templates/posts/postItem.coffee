@@ -3,4 +3,4 @@ Template.postItem.helpers
         a = document.createElement("a");
         a.href = this.url;
         return a.hostname;
-        
+    
