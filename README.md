@@ -1,0 +1,1 @@
+Microscope project built while learning Meteor JS and reading Discover Meteor (https://discovermeteor.com).
